@@ -134,7 +134,7 @@ fabric.properties
 ######################
 ######   Maven  ######
 ######################
-
+/.metadata/
 **/target/
 pom.xml.tag
 pom.xml.releaseBackup
