@@ -22,6 +22,11 @@ public class SimpleEntity {
 		super();
 		this.name = name;
 	}
+	public SimpleEntity(String name, Long id) {
+		super();
+		this.id = id;
+		this.name = name;
+	}
 
 
 	public Long getId() {
