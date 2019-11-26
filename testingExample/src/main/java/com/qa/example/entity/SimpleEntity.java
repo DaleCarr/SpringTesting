@@ -18,9 +18,8 @@ public class SimpleEntity {
 	
 	public SimpleEntity() {}
 
-	public SimpleEntity(Long id, String name) {
+	public SimpleEntity(String name) {
 		super();
-		this.id = id;
 		this.name = name;
 	}
 
